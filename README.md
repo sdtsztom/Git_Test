@@ -1,2 +1,2 @@
-A test repo for myself.
-hhhh
+This is a test repo for myself.
+I have merged it.
