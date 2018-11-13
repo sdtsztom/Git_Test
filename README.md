@@ -1,1 +1,1 @@
-A test repo for myself.
+This is a test repo for myself.
